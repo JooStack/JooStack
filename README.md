@@ -14,7 +14,7 @@
 <h3>DevOps Engineer</h3>
 <hr>
 
-- I am well educated these; AWS, DevOPs, Python, Linux, VS Code, Git, GitHub, GitLab, Jira, Agile, Docker, Kubernetes, Terraform, Ansible
+- I am well educated about; AWS, DevOPs, Python, Linux, VS Code, Git, GitHub, GitLab, Jira, Agile, Docker, Kubernetes, Terraform, Ansible
 - Enthusiastic DevOps eager to contribute to team success through hard work, 
 - Lifelong Learner,
 - Carefull for detail and excellent organizational skills.
