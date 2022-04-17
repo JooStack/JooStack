@@ -15,7 +15,7 @@
 <hr>
 
 - I am well educated about; AWS, DevOPs, Python, Linux, VS Code, Git, GitHub, GitLab, Jira, Agile, Docker, Kubernetes, Terraform, Ansible
-- Enthusiastic DevOps eager to contribute to team success through hard work, 
+- Eager to contribute to team success through hard work, 
 - Lifelong Learner,
 - Carefull for detail and excellent organizational skills.
 - Passionate about learning new things every day.
@@ -43,3 +43,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JooStack&show_icons=true&theme=onedark)
+
+<hr>
+
+<p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JooStack&theme=onedark&layout=compact" alt="languages" width="50%" > </p>
