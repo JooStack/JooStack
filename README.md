@@ -39,6 +39,7 @@
 -  You can reach me via Linkedin   :  <a href="https://www.linkedin.com/in/joo-stack/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"/></a>
 
 <br>
+<!--
 <h3 align="left">Statics:</h3>
 
 
@@ -47,3 +48,4 @@
 <hr>
 
 <p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JooStack&theme=onedark&layout=compact" alt="languages" width="50%" > </p>
+-->
