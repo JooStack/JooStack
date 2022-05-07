@@ -11,7 +11,7 @@
 - ⚡ Fun fact: ...
 -->
 <h1>Hi, I'm Joo Stack</h1>
-<h3>DevOps Engineer</h3>
+<h3>DevOps Engineer - Aws Solution Architect</h3>
 <hr>
 
 - I am well educated about; AWS, DevOPs, Python, Linux, VS Code, Git, GitHub, GitLab, Jira, Agile, Docker, Kubernetes, Terraform, Ansible
